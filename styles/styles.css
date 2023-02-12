@@ -16,21 +16,21 @@
     text-align: center;
     color: #FFFFFF;
     margin-bottom: 130px;
+    padding: 100px 220px;
 }
 
 .banner-title {
     font-weight: 700;
     font-size: 65px;
-    padding: 100px 200px;
+    /* padding: 100px 200px; */
     /* margin-bottom: 10px; */
 }
 
-/* 
+
 .banner-description {
     font-size: 18px;
-    padding-left: 307px;
-    padding-right: 307px;
-} */
+    
+}
 
 .btn-primary {
     background: #FF5959;
@@ -253,28 +253,46 @@
     margin-right: 315px;
     padding: 76px 189px;
     
-   
 }
 
-/* .email {
-    
-    
-} */
+.email {
+   background-color: #B3B3B3; 
+   border: none;
+   height: 30px;
+   padding-left: 10px;
+}
+.Subscribe{
+    border: none;
+   height: 30px;
+   background-color: rgb(247, 167, 138);
+}
 /* footer style */
+
+.footer{
+    
+}
 
 .fotter-style{
     margin-top: 130px;
-    height: 177px;
+    
     background: #0B0D17;
+   padding: 50px 550px;
    
 }
 .humble{
     font-family: 'Lobster';
     font-size: 36px;
     color: #FF5959;
+    /* padding: 50px 550px;
+    margin-bottom: 10px; */
+}
     
 .humble-description{
     font-family: 'Manrope';
     font-size: 14px;
-    color: #000;
+    color: #fcf4f4;
+    /* padding-left: 568px;
+    padding-right: 568px; */
+    /* margin-top: 0px; */
+   
 }
